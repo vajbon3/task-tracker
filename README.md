@@ -1,3 +1,6 @@
+A simple Task Tracker build with React, that uses npm package called "json-server" as a mock database.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
